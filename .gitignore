@@ -1,0 +1,16 @@
+# SolidWorks temp and backup files
+*.swp
+*.swo
+~$*
+*.bak
+*.lck
+*.sldrep
+
+# SolidWorks simulation output
+*.CWR
+*.frd
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
